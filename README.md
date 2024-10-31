@@ -2,8 +2,10 @@
 
 ![Python 3.6+](https://img.shields.io/badge/README-ENGLISH-green.svg)
 
+## UAVM 2024
 
-This repository is the code for our paper [WAGL: Extreme Weather Adaptive Method for Robust and Generalizable UAV-based Cross-View Geo-localization](), Thank you for your kindly attention.
+UAVs in Multimedia: Capturing the World from a New Perspective. 
+This repository is the code for our paper [WAGL: Extreme Weather Adaptive Method for Robust and Generalizable UAV-based Cross-View Geo-localization](https://dl.acm.org/doi/10.1145/3689095.3689100), Thank you for your kindly attention.
 
 ## requirement
 1. Download the [University-1652-WX](https://www.zdzheng.xyz/ACMMM2024Workshop-UAV) dataset
